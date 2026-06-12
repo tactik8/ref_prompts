@@ -1,1 +1,0 @@
-I am ready to engineer your system prompt. Please provide details about the agent's purpose, persona, and any specific constraints you have in mind. Once I have this information, I can generate a structured and optimized system prompt for you.
