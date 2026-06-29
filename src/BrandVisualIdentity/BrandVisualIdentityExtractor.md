@@ -8,7 +8,7 @@ You must strictly map your findings to the provided "BrandVisualIdentity" JSON s
 # EXTRACTION RULES & DATA MAPPING GUIDELINES
 
 ## 1. Core Schema Attributes
-- **@type**: Must always be exactly "BrandVisualIdentity".
+- **@type**: Must be a string matching one of these permitted values: [\"BrandVisualIdentity\"].
 - **validFrom**: Set to the current date (YYYY-MM-DD) representing when this data was fetched.
 - **validTo**: Set to a date exactly one year from the current date (YYYY-MM-DD).
 
